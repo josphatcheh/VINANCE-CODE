@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 19 Dec 2024 00:38:24 at https://vinancee.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vinancee.com/ -O1 "C:\My Web Sites\VINANCEE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:41:04	Error: 	"Method Not Allowed" (405) at link https://vinancee.com/user/web3/metamask-login/verify (from https://vinancee.com/user/login)
+00:41:04	Error: 	"Method Not Allowed" (405) at link https://vinancee.com/user/check-mail (from https://vinancee.com/user/register)
+00:41:09	Error: 	"Method Not Allowed" (405) at link https://vinancee.com/user/order/save/:symbol (from https://vinancee.com/trade)
+00:41:09	Error: 	"Method Not Allowed" (405) at link https://vinancee.com/user/order/cancel/:id (from https://vinancee.com/trade)
+00:41:09	Error: 	"Method Not Allowed" (405) at link https://vinancee.com/user/order/update/:id (from https://vinancee.com/trade)
+00:41:13	Warning: 	File not parsed, looks like binary: https://vinancee.com/placeholder-image/20x20
+00:41:16	Error: 	"Not Found" (404) at link https://vinancee.com/p2p/:type/:coin/:currency/:paymentMethod/:region/:amount (from https://vinancee.com/p2p)
+00:41:16	Error: 	"Not Found" (404) at link https://vinancee.com/^-? (from https://vinancee.com/p2p)
+00:41:16	Error: 	"Method Not Allowed" (405) at link https://vinancee.com/user/p2p/trade/request/save/:id (from https://vinancee.com/p2p)
+00:41:16	Warning: 	Link https://vinancee.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+00:41:16	Error: 	"Not Found" (404) at link https://vinancee.com/blog/80/zero-fee-bitcoin-trading-on-vinanceecom-revolutionizing-the-crypto-trading-experience-introduction (from https://vinancee.com/blog/zero-fee-bitcoin-trading-on-vinanceecom-revolutionizing-the-crypto-trading-experience-introduction/80)
+00:41:16	Error: 	"Not Found" (404) at link https://vinancee.com/blog/79/notice-on-the-removal-of-trading-bots-services-from-selected-spot-trading-pairs (from https://vinancee.com/blog/notice-on-the-removal-of-trading-bots-services-from-selected-spot-trading-pairs/79)
+00:41:16	Error: 	"Not Found" (404) at link https://vinancee.com/blog/78/auto-invest-adds-pendle-subscribe-to-auto-invest-to-get-up-to-2000-in-btc-token (from https://vinancee.com/blog/auto-invest-adds-pendle-subscribe-to-auto-invest-to-get-up-to-2000-in-btc-token/78)
+00:41:16	Error: 	"Not Found" (404) at link https://vinancee.com/blog/26/updates-on-minimum-order-size-for-spot-and-margin-trading-pairs (from https://vinancee.com/blog/updates-on-minimum-order-size-for-spot-and-margin-trading-pairs/26)
+00:41:16	Warning: 	Moved Permanently for https://vinancee.com/Version/
+00:41:16	Warning: 	File has moved from https://vinancee.com/Version/ to https://vinancee.com/Version
+00:41:17	Error: 	"Not Found" (404) at link https://vinancee.com/e (from https://vinancee.com/assets/templates/basic/js/swiper.js)
+00:41:17	Error: 	"Not Found" (404) at link https://vinancee.com/t.params.url (from https://vinancee.com/assets/templates/basic/js/swiper.js)
+00:41:17	Warning: 	Moved Permanently for https://vinancee.com/user/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+00:41:17	Warning: 	File has moved from https://vinancee.com/user/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ to https://vinancee.com/user/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789%2b
+00:41:18	Error: 	"Not Found" (404) at link https://vinancee.com/user/GET (from https://vinancee.com/assets/templates/basic/js/metamask-sdk.js)
+00:41:18	Warning: 	Moved Permanently for https://vinancee.com/user/$&/
+00:41:18	Warning: 	File has moved from https://vinancee.com/user/$&/ to https://vinancee.com/user/$%26
+00:41:18	Error: 	"Not Found" (404) at link https://vinancee.com/assets/templates/basic/css/images/ui-icons_444444_256x240.png (from https://vinancee.com/assets/templates/basic/css/range-ui.css)
+00:41:18	Error: 	"Not Found" (404) at link https://vinancee.com/assets/templates/basic/css/images/ui-icons_555555_256x240.png (from https://vinancee.com/assets/templates/basic/css/range-ui.css)
+00:41:18	Error: 	"Not Found" (404) at link https://vinancee.com/assets/templates/basic/css/images/ui-icons_ffffff_256x240.png (from https://vinancee.com/assets/templates/basic/css/range-ui.css)
+00:41:18	Error: 	"Not Found" (404) at link https://vinancee.com/assets/templates/basic/css/images/ui-icons_777620_256x240.png (from https://vinancee.com/assets/templates/basic/css/range-ui.css)
+00:41:18	Error: 	"Not Found" (404) at link https://vinancee.com/assets/templates/basic/css/images/ui-icons_cc0000_256x240.png (from https://vinancee.com/assets/templates/basic/css/range-ui.css)
+00:41:18	Error: 	"Not Found" (404) at link https://vinancee.com/assets/templates/basic/css/images/ui-icons_777777_256x240.png (from https://vinancee.com/assets/templates/basic/css/range-ui.css)
+00:41:18	Error: 	"Error when decompressing" (-1) at link https://vinancee.com/Version (from https://vinancee.com/Version/)
+00:41:18	Error: 	"Error when decompressing" (-1) at link https://vinancee.com/user/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+ (from https://vinancee.com/user/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/)
+00:41:18	Error: 	"Not Found" (404) at link https://vinancee.com/user/$%26 (from https://vinancee.com/user/$&/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 422 links scanned, 394 files written (18054690 bytes overall) [15886267 bytes received at 91300 bytes/sec], 13609273 bytes transferred using HTTP compression in 340 files, ratio 34%, 71.6 requests per connection
+(24 errors, 8 warnings, 0 messages)
